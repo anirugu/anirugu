@@ -20,7 +20,7 @@ My name is Anirudha Gupta and I am a software engineer at guardian life insuranc
 Almost 10 years ago I used to communicate with Microsoft's employee on connect.microsoft.com where I discuss the functionality they release in Visual Studio and Tools. 
 I got appreciation letter from [Microsoft](http://geekswithblogs.net/anirugu/archive/2013/03/11/visual-studio-2012-thank-you.aspx)
 
-While I work on making cool things, I find many technique which help me to be more productive. For example when IE10 launched, I find [this](http://geekswithblogs.net/anirugu/archive/2013/03/02/how-to-write-css-only-for-internet-explorer--10.aspx) technique. I shared with many people and everyone like it.
+While I work on making cool things, I find many technique which help me to be more productive. For example when IE10 launched, I find [this](http://geekswithblogs.net/anirugu/archive/2013/03/02/how-to-write-css-only-for-internet-explorer--10.aspx) technique. I shared it with many people and everyone like it.
 
 In past 7 years, I work on multiple software (Web,Desktop) in which I used to do integration with social sites, Developing complex functionality, algorithms behind a app.
 Follow me here on [Github](https://github.com/anirugu) or [Stackoverflow](https://stackoverflow.com/users/713789/anirudha-gupta)
