@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Anirudha Gupta and I am a software engineer at guardian life insurance. I am a full stack engineer. I do work on backend and frontend to make good looking complicated functionality web-apps. I started my professional career at Teknikforce where I used to work on a functionality of a Desktop software, Mobile-apps, Web-apps. I develop a mobile website at the time when UC Browser and Opera Mobile is the only browser for browsing. 
+My name is Anirudha Gupta. I am a full stack engineer. I do work on backend and frontend to make good looking complicated functionality web-apps. I started my professional career at Teknikforce where I used to work on a functionality of a Desktop software, Mobile-apps, Web-apps. I develop a mobile website at the time when UC Browser and Opera Mobile is the only browser for browsing. 
 
 Almost 10 years ago I used to communicate with Microsoft's employee on connect.microsoft.com where I discuss the functionality they release in Visual Studio and Tools. 
 I got appreciation letter from [Microsoft](http://geekswithblogs.net/anirugu/archive/2013/03/11/visual-studio-2012-thank-you.aspx)
