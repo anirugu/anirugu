@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 Hi, my name is Anirudha Gupta. I am a full stack developer. Currently I am working on Angualr/Dotnet. In past I have worked on many microsoft technology. 
 
 [IE10 research](http://geekswithblogs.net/anirugu/archive/2013/03/02/how-to-write-css-only-for-internet-explorer--10.aspx)
+
 appreciation letter from [Microsoft](http://geekswithblogs.net/anirugu/archive/2013/03/11/visual-studio-2012-thank-you.aspx)
 
 [Github](https://github.com/anirugu)
+
 [Stackoverflow](https://stackoverflow.com/users/713789/anirudha-gupta)
 
