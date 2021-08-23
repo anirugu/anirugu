@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Anirudha Gupta. I am a full stack developer. Currently I am working on Angualr/Dotnet. In past I have worked on many microsoft technology. 
+Hi, my name is Anirudha Gupta. I am a full stack developer. Currently I am working on Azure. In past I have worked on many microsoft technology. 
 
-[IE10 research](http://geekswithblogs.net/anirugu/archive/2013/03/02/how-to-write-css-only-for-internet-explorer--10.aspx)
+[IE10 research](https://raw.githubusercontent.com/anirugu/blogpost/main/posts/2013-03-02-how-to-write-css-only-for-internet-explorer-10.html)
 
-appreciation letter from [Microsoft](http://geekswithblogs.net/anirugu/archive/2013/03/11/visual-studio-2012-thank-you.aspx)
+appreciation letter from [Microsoft](https://raw.githubusercontent.com/anirugu/blogpost/main/posts/2013-03-11-visual-studio-2012-thank-you.html)
 
 [Github](https://github.com/anirugu)
 
