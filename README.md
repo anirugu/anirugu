@@ -1,2 +1,26 @@
+<!--
+**Anirugu/Anirugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi everyone, I am <b>Anirudha Gupta</b> I build software using C# & JavaScript. Currently I am working on <b>Azure Cloud Programming</b>.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+# Hi 👋, I'm Anirudha Gupta
+
+## Software Engineer | Cloud Engineer 
+
+<p align="center">
+    
+  <a href="https://github.com/Nikunjbansal99/Nikunjbansal99">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirugu&theme=default&show_icons=true" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anirugu&theme=default" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirugu&theme=default" alt="Nikunj's Top Languages" />
+  </a>
+</p>
