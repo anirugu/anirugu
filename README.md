@@ -24,3 +24,12 @@ Here are some ideas to get you started:
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirugu&theme=default" alt="Nikunj's Top Languages" />
   </a>
 </p>
+
+<ul>
+    <li>Leading the Azure/Dotnet Incubation program in organization. Helping people to get started with cloud first approach.</li>
+    <li>Part of Project Steve. We won the best integration awards https://devpost.com/software/augmented-person-in-an-infinite-shop</li>
+    <li>Worked on numerous app which consume apis form Google, Facebook, Twitter and process them and generate reports </li>
+    <li>Appreciation letter from former Micorsoft VP S. Somasegar https://www.linkedin.com/in/anirugu/details/featured/1635454724364/single-media-viewer/</li>
+    <li>Work on application as lead developer for 6+ years which is mentioned in Sundar Pichai's Digital India speech</li>
+   
+<ul>
