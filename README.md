@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm Anirudha Gupta
 
-## Software Engineer | Cloud Engineer 
+## Software Engineer | Platform Engineer 
 - ![](https://komarev.com/ghpvc/?username=anirugu)
 <p align="center">
     
