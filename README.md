@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 </p>
 
 <ul>
-    <li>Leading the Azure/Dotnet Incubation program in organization. Helping people to get started with cloud first approach.</li>
+    <li>Currnetly worked as platform engineer at @WSAudiology</li>
+    <li>Leading the Azure/Dotnet Incubation program in Epam Helping people to get started with cloud first approach.</li>
     <li>Part of Project Steve. We won the best integration awards https://devpost.com/software/augmented-person-in-an-infinite-shop</li>
     <li>Worked on numerous app which consume apis form Google, Facebook, Twitter , process data and generate reports </li>
     <li>Appreciation letter from former Micorsoft VP S. Somasegar https://www.linkedin.com/in/anirugu/details/featured/1635454724364/single-media-viewer/</li>
