@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 <ul>
-    <li>Currnetly worked as platform engineer at @WSAudiology</li>
+    <li>Currnetly worked as senior software engineer at @WSAudiology</li>
     <li>Leading the Azure/Dotnet Incubation program in Epam Helping people to get started with cloud first approach.</li>
     <li>Part of Project Steve. We won the best integration awards https://devpost.com/software/augmented-person-in-an-infinite-shop</li>
     <li>Worked on numerous app which consume apis form Google, Facebook, Twitter , process data and generate reports </li>
