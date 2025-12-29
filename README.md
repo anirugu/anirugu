@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/anirugu/anirugu">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirugu&theme=default&show_icons=true" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anirugu&theme=default" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirugu&theme=default" alt="Nikunj's Top Languages" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirugu&theme=default" alt="Anirudha's Top Languages" />
   </a>
 </p>
 
