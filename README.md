@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anirugu">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirugu&theme=radical&show_icons=true&hide_border=true" />
+   <img width="48%" src="./profile/stats.svg" alt="GitHub Stats" />
    <img width="48%" src="https://streak-stats.demolab.com/?user=anirugu&theme=radical&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anirugu">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirugu&theme=radical&layout=compact&hide_border=true" alt="Anirudha's Top Languages" />
+   <img align="center" src="./profile/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
