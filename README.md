@@ -15,22 +15,25 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Anirudha Gupta
 
 ## Senior Software Engineer
-- ![](https://komarev.com/ghpvc/?username=anirugu)
+![](https://komarev.com/ghpvc/?username=anirugu&color=blue)
+
 <p align="center">
-    
-  <a href="https://github.com/anirugu/anirugu">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirugu&theme=default&show_icons=true" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anirugu&theme=default" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirugu&theme=default" alt="Anirudha's Top Languages" />
+  <a href="https://github.com/anirugu">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anirugu&theme=radical&show_icons=true&hide_border=true" />
+   <img width="48%" src="https://streak-stats.demolab.com/?user=anirugu&theme=radical&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anirugu">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirugu&theme=radical&layout=compact&hide_border=true" alt="Anirudha's Top Languages" />
   </a>
 </p>
 
-<ul>
-    <li>Currnetly worked as senior software engineer at @WSAudiology</li>
-    <li>Leading the Azure/Dotnet Incubation program in Epam Helping people to get started with cloud first approach.</li>
-    <li>Part of Project Steve. We won the best integration awards https://devpost.com/software/augmented-person-in-an-infinite-shop</li>
-    <li>Worked on numerous app which consume apis form Google, Facebook, Twitter , process data and generate reports </li>
-    <li>Appreciation letter from former Micorsoft VP S. Somasegar https://www.linkedin.com/in/anirugu/details/featured/1635454724364/single-media-viewer/</li>
-    <li>Work on application as lead developer for 6+ years which is mentioned in Sundar Pichai's Digital India speech</li>
-   
-<ul>
+### 🚀 About Me
+
+- 🔭 **Currently working as** Senior Software Engineer at [@WSAudiology](https://github.com/WSAudiology)
+- 🌱 **Leading the Azure/.NET Incubation program** at EPAM, helping engineers adopt a cloud-first approach.
+- 🏆 **Part of Project Steve**: Won the Best Integration Award ([View on Devpost](https://devpost.com/software/augmented-person-in-an-infinite-shop)).
+- 💻 **Extensive API Integration Experience**: Built numerous applications consuming data from Google, Facebook, and Twitter to process and generate analytical reports.
+- 📜 **Recognized for Excellence**: Received an appreciation letter from former Microsoft VP S. Somasegar ([View on LinkedIn](https://www.linkedin.com/in/anirugu/details/featured/1635454724364/single-media-viewer/)).
+- 🌍 **High Impact**: Lead developer for 6+ years on an application highlighted in Sundar Pichai's Digital India speech.
